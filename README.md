@@ -12,4 +12,4 @@ mvn clean package
 ### Quick Run
 * Download an already assembled deployable package here.
 * Deploy downloaded WAR file into suitable web server.
-* Open a browser and enter http://localhost:[Port Number\]/unify into the address bar.
+* Open a browser and enter '`http://localhost:[Port Number]/unify`' into the address bar.
