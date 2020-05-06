@@ -5,7 +5,7 @@
 	<groupId>com.tcdng.unify</groupId>
 	<artifactId>unify-app-war</artifactId>
 	<packaging>war</packaging>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 
 	<name>unify-app-war</name>
 	<description>Unify Framework Application (WAR)</description>
@@ -30,8 +30,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.version>1.1.1</project.version>
-        <unify.version>1.1.1</unify.version>
+        <project.version>1.1.2</project.version>
+        <unify.version>1.1.2</unify.version>
     </properties>
 
     <build>

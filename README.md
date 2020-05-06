@@ -10,6 +10,6 @@ mvn clean package
 ```
  
 ### Quick Run
-* Download an already assembled deployable package here.
+* Download an already assembled deployable package [here](https://github.com/tcdng/unify-war/releases/download/1.1.2/unify.war).
 * Deploy downloaded WAR file into suitable web server.
 * Open a browser and enter `http://localhost:[Port Number]/unify` into the address bar.
